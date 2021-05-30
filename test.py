@@ -15,3 +15,6 @@ class Freshie:
     def __init__(self, name):
         self.name = name
         
+    def intro(self):
+        return "Dear" + self.name + "Welcome to Campus!"
+        
