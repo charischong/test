@@ -22,3 +22,4 @@ class Freshie:
 
 print('Hello world!')
         
+print ('LOL')
