@@ -19,4 +19,6 @@ class Freshie:
         return "Dear" + self.name + "Welcome to Campus!"
     
 #new branch
+
+print('Hello world!')
         
