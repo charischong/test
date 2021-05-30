@@ -24,11 +24,7 @@ print('Hello world!')
 
 print("change")
         
-<<<<<<< HEAD
 #YO
-=======
-print ('LOL')
-print("LETS SEE THIS SENTENCE ON GITHUB")
 
 
->>>>>>> 2995c0e60df6ff28c0fbbfcde193ec54997ae416
+
