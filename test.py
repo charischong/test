@@ -30,3 +30,4 @@ print("LETS SEE THIS SENTENCE ON GITHUB")
 #hey
 
 print ("test")
+print("WEDnesday")
